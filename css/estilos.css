@@ -1,0 +1,30 @@
+.logo {
+    width: 500px;
+}
+
+.barra-busqueda {
+    width: 500px; 
+}
+
+.boton-buscar {
+    background-color: red;
+}
+
+.boton-suerte {
+background-color: blue;
+}
+
+button{ 
+    color: white;
+    font-weight: bold;
+ }
+
+#texto -descriptivo {
+font-size: 50px;
+text-align: center;
+font-style: italic;
+}
+
+span {
+color: green;
+}
